@@ -1,0 +1,5 @@
+kali ifconfig:
+172.16.0.17
+
+Metasploitable2 ifconfig ip:
+172.16.0.22
