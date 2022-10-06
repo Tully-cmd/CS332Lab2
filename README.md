@@ -30,17 +30,17 @@ From Kali terminal window run the following command
 
 
 
-- What ports and services did Nmap find? Please insert a screenshot of the output or copy and paste the table of open ports along with the states and services as listed?
+1. What ports and services did Nmap find? Please insert a screenshot of the output or copy and paste the table of open ports along with the states and services as listed?
 
-1. Are there any differences between each scan?
+2. Are there any differences between each scan?
 
-2. What service is running on port 23?
+3. What service is running on port 23?
 
-3. What service is running on Port 80
+4. What service is running on Port 80
 
-4. Is the service on Port 80 using SSL?
+5. Is the service on Port 80 using SSL?
 
-5. What port is VNC running on?
+6. What port is VNC running on?
 
 
 
